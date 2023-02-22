@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Micko Wijayanto**.\
+Perkenalkan nama saya **Micko Wijayanto**.
 
 Saya seorang **Electrical Engineer Student** di Universitas Brawijaya
 
